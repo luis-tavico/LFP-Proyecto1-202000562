@@ -90,7 +90,7 @@ class GenerarResultados:
                             self.styleResultados += "    color: " + self.colores[color.lower()]+";\n"
                         else: 
                             self.styleResultados += "    color: black;\n"
-                        self.styleResultados += "    font-size: " + tamanio + ";\n"
+                        self.styleResultados += "    font-size: " + tamanio + "px;\n"
                         self.styleResultados += "}\n"
                 elif "Descripcion" in Areatexto:
                     color = ""
@@ -109,7 +109,7 @@ class GenerarResultados:
                             self.styleResultados += "    color: " + self.colores[color.lower()]+";\n"
                         else: 
                             self.styleResultados += "    color: black;\n"
-                        self.styleResultados += "    font-size: " + tamanio + ";\n"
+                        self.styleResultados += "    font-size: " + tamanio + "px;\n"
                         self.styleResultados += "}\n"
                 elif "Contenido" in Areatexto:
                     color = ""
@@ -128,7 +128,7 @@ class GenerarResultados:
                             self.styleResultados += "    color: " + self.colores[color.lower()]+";\n"
                         else: 
                             self.styleResultados += "    color: black;\n"
-                        self.styleResultados += "    font-size: " + tamanio + ";\n"
+                        self.styleResultados += "    font-size: " + tamanio + "px;\n"
                         self.styleResultados += "}"
                 Areatexto = ""
             if etiquetaTipo:

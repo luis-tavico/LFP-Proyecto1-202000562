@@ -64,14 +64,6 @@
    'c:\\users\\luis '
    't\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\__init__.py',
    'PYMODULE'),
-  ('importlib.abc',
-   'c:\\users\\luis '
-   't\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\abc.py',
-   'PYMODULE'),
-  ('typing',
-   'c:\\users\\luis '
-   't\\appdata\\local\\programs\\python\\python39\\lib\\typing.py',
-   'PYMODULE'),
   ('importlib._bootstrap',
    'c:\\users\\luis '
    't\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap.py',
@@ -83,6 +75,14 @@
   ('importlib.metadata',
    'c:\\users\\luis '
    't\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\luis '
+   't\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\luis '
+   't\\appdata\\local\\programs\\python\\python39\\lib\\typing.py',
    'PYMODULE'),
   ('configparser',
    'c:\\users\\luis '
@@ -285,13 +285,13 @@
    'c:\\users\\luis '
    't\\appdata\\local\\programs\\python\\python39\\lib\\gettext.py',
    'PYMODULE'),
-  ('stringprep',
-   'c:\\users\\luis '
-   't\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
-   'PYMODULE'),
   ('tracemalloc',
    'c:\\users\\luis '
    't\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\luis '
+   't\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
    'PYMODULE'),
   ('tempfile',
    'c:\\users\\luis '
