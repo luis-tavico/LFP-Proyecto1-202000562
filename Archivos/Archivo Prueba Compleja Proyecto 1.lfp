@@ -1,0 +1,46 @@
+<Tipo>
+<Operacion=POTENCIA>
+|
+	<Numero> 2 </Numero>
+	<Numero> 3 </Numero>
+</Operacion>
+<Operacion=MOD>
+	<Numero> 48 </Numero>
+	<Numero> 3 </Numero>
+?
+</Operacion>
+<Operacion=RAIZ>
+	<Numero> 64 </Numero>
+	<Numero> 4 </Numero>
+</Operacion>
+	¿
+<Operacion=SENO>
+	<Numero> 20 </Numero>
+</Operacion>
+<Operacion=COSENO>
+	<Numero> 35 </Numero>
+</Operacion>
+<Operacion=INVERSO>
+	<Numero> 5 </Numero>
+</Operacion>
+<Operacion=TANGENTE>
+	<Operacion=DIVISION>
+		<Numero> 100 </Numero>
+		<Numero> 20 </Numero>
+	</Operacion>
+</Operacion>
+°
+</Tipo>
+<Texto>
+"Archivo complejo de pruebas aritmeticas de proyecto 1 LFP B-"
+</Texto>
+<Funcion=ESCRIBIR>
+	<Titulo>Operaciones </Titulo>
+	<Descripcion> [TEXTO] </Descripcion>
+	<Contenido> [TIPO] </Contenido>	
+</Funcion>
+<Estilo>
+		<Titulo Color=ROJO Tamanio=15/>
+		<Descripcion Color=VERDE Tamanio=15/>
+		<Contenido Color=AZUL Tamanio=20/>
+</Estilo>	
